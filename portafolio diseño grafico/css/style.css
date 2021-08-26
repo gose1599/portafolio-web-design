@@ -93,7 +93,42 @@ body{
 /*----------*/
 .sobre-mi h3{
     letter-spacing: 1px;
-    margin-top: 250px;
+    margin-top: 190px;
     text-align: center;
-    font-size: 40px;
+    font-size: 47px;
+    color: #D54252;
 }
+.sobremi-text{
+    width: 71%;
+}
+.sobremi-text p{
+    text-align: center;
+    margin: 60px 0 60px 44%;
+    text-align: justify;
+    font-size: 16px;
+}
+.foto-mi{
+    width: 75%;
+}
+.foto-mi img{
+    display: inline-block;
+    margin: 15px 0 45px 44%;
+    width: 500px;
+}
+.cuadrado-sobremi{
+    background-color: #D54252;
+    width: 12%;
+    height: 4px;
+    margin: 40px 0 20px 44%;
+}
+.portafolio{
+    padding: 15px;
+    text-align: center;
+    color: #D54252;
+    font-size: 16px;
+}
+
+
+/*----------*/
+/*Proyectos*/
+/*----------*/
